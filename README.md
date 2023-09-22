@@ -24,4 +24,4 @@ and more
   ![An image of a cat](http://placekitten.com/200/300
 Links to an external site.)
 
-![the mona lisa](assers/Mona_lisa_by_leonardo_da_Vinci_500_x_700.jpg)
+![the mona lisa](assets/Mona_lisa_by_leonardo_da_Vinci_500_x_700.jpg)
